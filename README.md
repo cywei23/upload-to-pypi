@@ -1,5 +1,5 @@
 # Upload gb-distributions package to Pypi.org
-- OOP practice on class, inheritance and magic method
+- OOP practices on class, inheritance and magic methods
 - Steps and files needed to upload package to pypi.org
 
 ### Local Package
