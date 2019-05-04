@@ -1,6 +1,6 @@
-# upload-to-pypi
+# Upload gb-distributions package to Pypi.org
 - OOP practice on class, inheritance and magic method
-- Upload package to pypi.org
+- Steps and files needed to upload package to pypi.org
 
 ### Local Package
 - `cd package_folder`
